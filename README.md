@@ -6,7 +6,7 @@ Install
 
 | Order         | Device Pin                                                                                                                                        | Remark |
 | ------------- |:-------------------------------------------------------------------------------------------------------------------------------------------------:| ------:|
-| #1            | [wdcp.sh](https://github.com/lincanbin/Private-Server-Configuration-Files/tree/master/shell)                                                      | None   |
+| #1            | [wdcp.sh](https://github.com/lincanbin/Private-Server-Configuration-Files/blob/master/shell/wdcp.sh)                                                      | None   |
 | #2            | [wdcp_mysql_upgrade_5.5.27.sh](https://github.com/lincanbin/Private-Server-Configuration-Files/blob/master/shell/wdcp_mysql_upgrade_5.5.27.sh)    | None   |
 | #3            | [wdcp_php_upgrade_5.6.7.sh](https://github.com/lincanbin/Private-Server-Configuration-Files/blob/master/shell/wdcp_php_upgrade_5.6.7.sh)          | None   |
 | #4            | [wdcp_php_upgrade_5.6.7.sh](https://github.com/lincanbin/Private-Server-Configuration-Files/blob/master/shell/wdcp_php_upgrade_5.6.7.sh)          | None   |
